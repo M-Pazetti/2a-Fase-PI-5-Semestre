@@ -1,8 +1,8 @@
 # Conta Calorias 🥗📱
 
 ## Equipe de Desenvolvimento
-- **Guilherme Lima Moreira**
 - **Marcelo Pazetti**
+- **Guilherme Lima Moreira**
 
 ## Sobre o Aplicativo
 O **Conta Calorias** é um aplicativo desenvolvido para auxiliar os usuários no monitoramento da ingestão calórica diária, oferecendo um controle eficiente sobre a saúde alimentar. O app permite que o usuário:
