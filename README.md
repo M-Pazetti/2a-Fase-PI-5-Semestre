@@ -88,7 +88,7 @@ Este repositório contém a **segunda fase** do desenvolvimento do aplicativo **
 A equipe responsável pela segunda fase do projeto inclui:
 
 - **Marcelo Pazetti**: Responsável pela integração de HTML, CSS e JavaScript ao projeto principal. Também colaborou na implementação da interface no .NET MAUI e gerenciou o repositório no GitHub.
-- **Alisson Davis Santana Santos**: Focou na configuração do .NET MAUI, criando a estrutura do aplicativo para as plataformas Windows, Android e iOS, além de converter o HTML/CSS para XAML.
+- Focou na configuração do .NET MAUI, criando a estrutura do aplicativo para as plataformas Windows, Android e iOS, além de converter o HTML/CSS para XAML.
 - **Guilherme Lima Moreira**: Implementou o banco de dados (SQLite ou outra solução compatível com .NET MAUI), além de desenvolver a lógica do aplicativo em C#.
 
 ## Tecnologias Utilizadas
