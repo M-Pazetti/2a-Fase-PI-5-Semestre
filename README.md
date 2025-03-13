@@ -1,7 +1,6 @@
 # Conta Calorias 🥗📱
 
 ## Equipe de Desenvolvimento
-- **Alisson Davis Santana Santos**
 - **Guilherme Lima Moreira**
 - **Marcelo Pazetti**
 
