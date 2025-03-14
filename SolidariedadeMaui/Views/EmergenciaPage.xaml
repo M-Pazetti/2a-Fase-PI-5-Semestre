@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SolidariedadeMaui.Views.EmergenciaPage"
+             Title="Números de Emergência">
+    <StackLayout Padding="10">
+        <Label Text="Números de Emergência" FontAttributes="Bold" FontSize="24" />
+        <CollectionView ItemsSource="{Binding Emergencias}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="5">
+                        <Label Text="{Binding Nome}" FontAttributes="Bold" />
+                        <Label Text="{Binding Numero}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

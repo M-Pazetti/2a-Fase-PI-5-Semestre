@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\postospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\postospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\postospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\postospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\mensagempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\mensagempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\mensagempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\mensagempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\mapapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\mapapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\mapapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\mapapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\emergenciapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\emergenciapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\views\\emergenciapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:views\\emergenciapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|c:\\users\\aliss\\onedrive\\documentos\\solidariedade maui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}|Solidariedade Maui.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:42:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T19:42:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T19:42:29.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MensagemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MensagemPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MensagemPage.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MensagemPage.xaml",
+              "RelativeToolTip": "Views\\MensagemPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T14:50:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MapaPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MapaPage.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MapaPage.xaml",
+              "RelativeToolTip": "Views\\MapaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T14:49:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MapaPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MapaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MapaPage.xaml.cs",
+              "RelativeToolTip": "Views\\MapaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:50:20.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MensagemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MensagemPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MensagemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\MensagemPage.xaml.cs",
+              "RelativeToolTip": "Views\\MensagemPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:51:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\PostosPage.xaml",
+              "RelativeDocumentMoniker": "Views\\PostosPage.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\PostosPage.xaml",
+              "RelativeToolTip": "Views\\PostosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T11:33:37.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\PostosPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PostosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\PostosPage.xaml.cs",
+              "RelativeToolTip": "Views\\PostosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:52:48.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmergenciaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\EmergenciaPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EmergenciaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\EmergenciaPage.xaml.cs",
+              "RelativeToolTip": "Views\\EmergenciaPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:48:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmergenciaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\EmergenciaPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EmergenciaPage.xaml",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Views\\EmergenciaPage.xaml",
+              "RelativeToolTip": "Views\\EmergenciaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T14:47:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Documentos\\Solidariedade Maui\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:55:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

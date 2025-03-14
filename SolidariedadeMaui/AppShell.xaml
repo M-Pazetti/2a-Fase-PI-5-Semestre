@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Solidariedade_Maui.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:Solidariedade_Maui.Views;assembly=Solidariedade_Maui"
+    Shell.FlyoutBehavior="Flyout"
+    Title="Solidariedade_Maui">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <TabBar>
+        <Tab Title="Postos" Icon="icon_postos.png">
+            <ShellContent ContentTemplate="{DataTemplate views:PostosPage}" />
+        </Tab>
+
+        <Tab Title="Mapa" Icon="icon_mapa.png">
+            <ShellContent ContentTemplate="{DataTemplate views:MapaPage}" />
+        </Tab>
+
+        <Tab Title="Emergência" Icon="icon_emer.png">
+            <ShellContent ContentTemplate="{DataTemplate views:EmergenciaPage}" />
+        </Tab>
+
+        <Tab Title="Mensagem" Icon="icon_msg.png">
+            <ShellContent ContentTemplate="{DataTemplate views:MensagemPage}" />
+        </Tab>
+    </TabBar>
+
+</Shell>

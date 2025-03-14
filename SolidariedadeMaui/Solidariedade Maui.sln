@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidariedade Maui", "Solidariedade Maui.csproj", "{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD1A448-0200-4BB8-9CC1-8711B2748BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A5F594-E5F9-41F7-9E55-898A279A238F}
+	EndGlobalSection
+EndGlobal
