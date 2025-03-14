@@ -3,6 +3,7 @@
 ## Equipe de Desenvolvimento
 - **Marcelo Pazetti**
 - **Guilherme Lima Moreira**
+- **Alisson Davis Santana Santos**
 
 ## Sobre o Aplicativo
 O **Conta Calorias** é um aplicativo desenvolvido para auxiliar os usuários no monitoramento da ingestão calórica diária, oferecendo um controle eficiente sobre a saúde alimentar. O app permite que o usuário:
@@ -88,9 +89,10 @@ Este repositório contém a **segunda fase** do desenvolvimento do aplicativo **
 A equipe responsável pela segunda fase do projeto inclui:
 
 - **Marcelo Pazetti**: Responsável pela integração de HTML, CSS e JavaScript ao projeto principal. Também colaborou na implementação da interface no .NET MAUI e gerenciou o repositório no GitHub.
-  Focou na configuração do .NET MAUI, criando a estrutura do aplicativo para as plataformas Windows, Android e iOS, além de converter o HTML/CSS para XAML.
   
 - **Guilherme Lima Moreira**: Implementou o banco de dados (SQLite ou outra solução compatível com .NET MAUI), além de desenvolver a lógica do aplicativo em C#.
+
+- **Alisson Davis Santana Santos**   Focou na configuração do .NET MAUI, criando a estrutura do aplicativo para as plataformas Windows, Android e iOS, além de converter o HTML/CSS para XAML.
 
 ## Tecnologias Utilizadas
 
